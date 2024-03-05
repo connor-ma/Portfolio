@@ -34,13 +34,7 @@ Bachelor of Science Business Administration – Major in Marketing with a Minor 
         <li>SQL</li>
         <li>Visual Basic</li>
         <li>Python</li>
-        <li>R</li>
         <li>Excel</li>
-        <li>Microsoft SQL Server Management Studio</li>
-        <li>Microsoft Visual Studio</li>
-        <li>Tableau</li>
-       <li>PowerBI</li>
-        <li>Trello</li>
       </ul>
     </td>
     <td>
@@ -62,14 +56,12 @@ Bachelor of Science Business Administration – Major in Marketing with a Minor 
         <li>Responsibility</li>
         <li>Learner</li>
         <li>Discipline</li>
-        <li>Developer</li>
+        <li>Communication</li>
         <li>Achiever</li>
      </ol>
    </td>
    <td>
      <ul>
-        <li>Teaching</li>
-        <li>Facilitating</li>
        <li>Problem Solving</li>
      </ul>
    </td>
