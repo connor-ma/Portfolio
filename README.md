@@ -64,6 +64,7 @@ Bachelor of Science Business Administration – Major in Marketing with a Minor 
      <ul>
        <li>Problem Solving</li>
        <li>Super Cool</li>
+       <li>Team Player</li>
      </ul>
    </td>
  </tr>
